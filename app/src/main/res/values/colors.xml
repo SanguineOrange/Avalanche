@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6F263D</color>
+    <color name="colorPrimaryDark">#041E42</color>
+    <color name="colorAccent">#A2AAAD</color>
+
+    <!-- Team Color Codes, no API was available for these -->
+    <color name="ana_primary">#f95602</color>
+    <color name="ari_primary">#8c2633</color>
+    <color name="bos_primary">#FCB514</color>
+    <color name="buf_primary">#002654</color>
+    <color name="cgy_primary">#c8102E</color>
+    <color name="car_primary">#cc0000</color>
+    <color name="chi_primary">#CF0A2C</color>
+    <color name="cbj_primary">#002654</color>
+    <color name="dal_primary">#006847</color>
+    <color name="det_primary">#ce1126</color>
+    <color name="edm_primary">#041E42</color>
+    <color name="fla_primary">#B9975B</color>
+    <color name="lak_primary">#A2AAAD</color>
+    <color name="min_primary">#154734</color>
+    <color name="mtl_primary">#AF1E2D</color>
+    <color name="nsh_primary">#E1AD01</color>
+    <color name="njd_primary">#CE1126</color>
+    <color name="nyi_primary">#00539b</color>
+    <color name="nyr_primary">#0038A8</color>
+    <color name="ott_primary">#c52032</color>
+    <color name="phi_primary">#F74902</color>
+    <color name="pit_primary">#000000</color>
+    <color name="sjs_primary">#006D75</color>
+    <color name="stl_primary">#002F87</color>
+    <color name="tbl_primary">#002868</color>
+    <color name="tor_primary">#00205b</color>
+    <color name="van_primary">#001f5b</color>
+    <color name="vgk_primary">#B4975A</color>
+    <color name="wsh_primary">#C8102E</color>
+    <color name="wpg_primary">#041E41</color>
+    <!-- Color codes copied from https://teamcolorcodes.com/category/nhl-team-color-codes/ -->
+</resources>

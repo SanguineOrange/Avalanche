@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Avalanche</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="schedule_header_text">Avalanche Schedule</string>
+    <string name="current_record">Current Record: </string>
+
+    <string name="nav_score">Most Recent Score</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_roster">Skaters</string>
+    <string name="nav_standings">Standings</string>
+    <string name="nav_ticket">Buy Tickets</string>
+    <string name="nav_distance">How Far Am I?</string>
+    <string name="next_game">Next Game</string>
+
+    <string name="abrv_placeholder">COL</string>
+    <string name="score_placeholder">0</string>
+    <string name="period_placeholder">1st</string>
+    <string name="sog_reminder">Shots on Goal</string>
+    <string name="ppp_reminder">Powerplay Oppertunites</string>
+
+    <string name="gp_reminder">GP</string>
+    <string name="goals_reminder">G</string>
+    <string name="assists_reminder">A</string>
+    <string name="save_reminder">SV%</string>
+    <string name="plus_minus_reminder">+/-</string>
+    <string name="defenseman">Defenseman</string>
+    <string name="forward">Forward</string>
+    <string name="goalie">Goaltender</string>
+    <string name="roster_placeholder">Placeholder Place MacHolder</string>
+    <string name="stat_placeholder">0</string>
+    <string name="poundsign">#</string>
+
+
+    <string name="score_grab_in_process">Loading…</string>
+    <string name="communication_error">Error! Could not connect to server!</string>
+    <string name="waiting_for_game_message">Game has not started yet!</string>
+    <string name="gaa_reminder">GAA</string>
+    <string name="jerseyplaceholder">#99</string>
+    <string name="player_portrait">player portrait</string>
+    <string name="social_media">Social Media</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="ticket_info">Ticket Info</string>
+    <string name="todo">TODO</string>
+    <string name="loading_error">Could not connect! Please close this app and try again!</string>
+    <string name="int_clock">Intermission</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<vector android:height="24dp" android:viewportHeight="502.664"
+    android:viewportWidth="502.664" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#010002" android:pathData="M0,289.793h148.666v199.638h-148.666z"/>
+    <path android:fillColor="#010002" android:pathData="M353.998,238.497h148.666v250.933h-148.666z"/>
+    <path android:fillColor="#010002" android:pathData="M176.988,164.057h148.709v325.374h-148.709z"/>
+    <path android:fillColor="#010002" android:pathData="M429.474,87.243l21.053,42.71l47.154,6.859l-34.082,33.241l8.024,46.96l-42.149,-22.175l-42.149,22.175l8.024,-46.96l-34.082,-33.241l47.111,-6.86L429.474,87.243z"/>
+    <path android:fillColor="#010002" android:pathData="M252.141,13.234l21.075,42.732l47.154,6.86l-34.082,33.262l8.046,46.916l-42.171,-22.153l-42.171,22.153l8.024,-46.916l-34.082,-33.262l47.132,-6.86L252.141,13.234z"/>
+    <path android:fillColor="#010002" android:pathData="M71.744,137.05l21.053,42.732l47.154,6.881l-34.06,33.219l8.024,46.938l-42.171,-22.153l-42.171,22.175l8.046,-46.938L3.538,186.684l47.132,-6.881L71.744,137.05z"/>
+    <!-- source: https://www.svgrepo.com/svg/23018/rankings -->
+</vector>

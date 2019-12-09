@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn ="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_score"
+            android:icon="@drawable/ic_score"
+            android:title="@string/nav_score" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_schedule"
+            android:title="@string/nav_schedule" />
+        <item
+            android:id="@+id/nav_roster"
+            android:icon="@drawable/ic_roster"
+            android:title="@string/nav_roster" />
+        <item
+            android:id="@+id/nav_standings"
+            android:icon="@drawable/ic_standings"
+            android:title="@string/nav_standings" />
+
+
+        <item android:title="@string/next_game">
+            <menu>
+                <item
+                    android:id="@+id/nav_tickets"
+                    android:icon="@drawable/ic_ticket"
+                    android:title="@string/nav_ticket" />
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="@string/social_media">
+        <menu>
+            <item
+                android:id="@+id/nav_facebook"
+                android:title="@string/facebook"
+                android:icon="@drawable/ic_facebook_logo"
+                />
+            <item
+                android:id="@+id/nav_twitter"
+                android:title="@string/twitter"
+                android:icon="@drawable/ic_twitter_logo"
+                />
+            <item
+                android:id="@+id/nav_insta"
+                android:title="@string/instagram"
+                android:icon="@drawable/ic_instagram_logo"
+                />
+
+        </menu>
+
+    </item>
+
+</menu>
